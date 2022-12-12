@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'cafeappbluegreen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4F8912E300F4A2E9AB1A76194E83679 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7F2DE546D8F4D848F8F984C87760FBC }}
           package: .
